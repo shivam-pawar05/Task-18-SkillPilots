@@ -1,0 +1,1 @@
+Benchmark output files are generated here when scripts/benchmark.py runs.\n
